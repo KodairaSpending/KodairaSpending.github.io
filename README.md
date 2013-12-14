@@ -11,6 +11,9 @@ Where Does My Money Go? β版（2013年12月14日稼働）は、小平市民が�
 
 なお、このサイトは、公共データのオープン化によって、地域社会を変え、日本社会を変え、世界にも影響を与え、貢献して行こうという思いを持って集まった以下のメンバーによって構築、運営されています。
 
+Team for Kodaira
+宮澤　利行(Toshiyuki Miyazawa), @nomade_toshi
+
 
 Core Team: (@は Twitter Account)
 
